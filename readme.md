@@ -1,4 +1,4 @@
-# Sprawozdanie laboratorium 6
+# Wyszukiwarka artykułów BBC News
 ## Autor
 Wojciech Przybytek
 ## Opis
